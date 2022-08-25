@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: darkolivegreen;
+}
+
+main {
+    text-align: center;
+    padding-top: 40%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: azure;
+} 
+
+
+footer {
+    text-align: center;
+    padding-top: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+    color: azure;
+}
