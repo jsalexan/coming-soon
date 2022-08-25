@@ -7,9 +7,9 @@ A landing page to indicate a project is "Coming soon!". I found I needed a page 
 
 ## Installation
 The website is hosted by GitHub pages. <br>
-You can find it here: [Link to Portfolio webpage](https://jsalexan.github.io/coming-soon/)
+You can find it here: [Link to Coming Soon webpage](https://jsalexan.github.io/coming-soon/)
 <br><br>
-The repository is on GitHub: [Link to GitHub repository for Portfolio project.](https://github.com/jsalexan/coming-soon/) <br>
+The repository is on GitHub: [Link to GitHub repository for Coming Soon project.](https://github.com/jsalexan/coming-soon/) <br>
 There you will find following : index.html, README, and license file, plus an Access folder containing images, and style.css files.
 
 <br>
